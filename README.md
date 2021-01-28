@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is David Ohuabunwa and I am a student based in the United Kingdom.
+I am currently learning Python.
+The subjects I am currently interested in are Data Science, Machine Learning and Linguistics.
+You can reach me via email at daviohua@pm.me.
