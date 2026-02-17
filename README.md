@@ -23,7 +23,7 @@ Since I don't have a computer science degree I'm working through the fundamental
 
 The repositories on this profile are first and foremost learning exercises. They either fork another repository to better understand it, follow on with a book or course orare standalone projects built to deepen my understanding of some aspect of application architecture or design. 
 
-For accountability, the vast majority of the code I write outside of work is available publicly here. Some of the code is old and not representative of my current skills but I will try my best to make sure that documentation is updated to allow others to run the code and comment on what I could have done better.
+For accountability, the vast majority of the code I write outside of work is available publicly here. Some of the code is old, incomplete, and/or not representative of my current skills but I will try my best to make sure that documentation is updated to allow others to run the code and comment on what I could have done better.
 
 If you want to get in touch feel free to email me or message me on LinkedIn!
 
