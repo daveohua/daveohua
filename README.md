@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! My name's David and I'm currently an apprentice software engineer at [Balyasny](https://bamfunds.com) (TBC in July 2026).
+Welcome to my GitHub profile! My name's David and I'm currently an apprentice software engineer at [Balyasny](https://bamfunds.com) (TBC July 2026).
 
 My language skills are mostly in Python and React/TypeScript, with some exposure to Rust and C#/Java. I've worked quite a bit with Kubernetes and Docker. As a hobbyist, I'm interested in functional programming and the social aspects of computing.
 
