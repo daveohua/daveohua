@@ -19,7 +19,7 @@ Welcome to my GitHub profile! My name's David and I'm currently an apprentice so
 
 My language skills are mostly in Python and React/TypeScript, with some exposure to Rust and C#/Java. I've worked quite a bit with Kubernetes and Docker. As a hobbyist, I'm interested in functional programming and the social aspects of computing.
 
-Since I don't have a computer science degree I'm working through the fundamentals using the reading list on [Teach Yourself CS](https://teachyourselfcs.com). At the moment I'm reading Structure and Interpretation of Computer Programs.
+Since I don't have a computer science degree I'm working through the fundamentals using the reading list on [Teach Yourself Computer Science](https://teachyourselfcs.com). At the moment I'm reading Structure and Interpretation of Computer Programs.
 
 The repositories on this profile are first and foremost learning exercises. They either fork another repository to better understand it, follow along with a book or course or are standalone projects built to deepen my understanding of some aspect of application architecture or design. 
 
